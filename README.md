@@ -10,5 +10,5 @@ Handwritings can be classified into many categories including gender, age, hande
 
 # Main Approach
 
-![TLS-Attacker design](https://github.com/RUB-NDS/TLS-Attacker/blob/master/resources/figures/design.png)
+![TLS-Attacker design](https://github.com/FaheemBhatti/Demographic-Analysis-of-Handwritten-text/blob/master/Resources/Approach.JPG)
 
