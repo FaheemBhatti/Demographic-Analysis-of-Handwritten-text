@@ -1,4 +1,4 @@
-# Demohraphic Analysis of Handwritten text
+# Demographic Analysis of Handwritten text
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![License](https://img.shields.io/badge/License-propriety-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
