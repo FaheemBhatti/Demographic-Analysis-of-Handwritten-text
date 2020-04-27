@@ -10,5 +10,9 @@ Handwritings can be classified into many categories including gender, age, hande
 
 # Main Approach
 
-![TLS-Attacker design](https://github.com/FaheemBhatti/Demographic-Analysis-of-Handwritten-text/blob/master/Resources/Approach.JPG)
+For classification, we have employed a feed forward artificial neural network. The features from writing samples of male and female writers in the training database are fed to the network making it learn to differentiate between the two classes. The number of hidden neurons in the network is chosen empirically using the validation dataset. During classification, the feature vector of the query writing image is
+fed to the trained network which outputs the class label, i.e. male or female writer.
+![Main Approach](https://github.com/FaheemBhatti/Demographic-Analysis-of-Handwritten-text/blob/master/Resources/Approach.JPG)
 
+# Usage
+Unfortuantely this code is no packadged SORRY :(, for using you have to setup Matlab locally in your machine and perfect entry point for starting is via GUI class. 
