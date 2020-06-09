@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![License](https://img.shields.io/badge/License-propriety-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Demograhphic anaylsis of handwritten task was an effort made by me for fulfilment of my bachelors degree. This was my final year project of my bachelors
+Demograhphic anaylsis of handwritten task was an effort made by me for fulfilment of my bachelors degree.
 
 # Intorduction
 
