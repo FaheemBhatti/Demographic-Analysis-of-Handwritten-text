@@ -15,4 +15,4 @@ fed to the trained network which outputs the class label, i.e. male or female wr
 ![Main Approach](https://github.com/FaheemBhatti/Demographic-Analysis-of-Handwritten-text/blob/master/Resources/Approach.JPG)
 
 # Usage
-Unfortuantely this code is no packadged SORRY :(, for using you have to setup Matlab locally in your machine and perfect entry point for starting is via GUI class. 
+Unfortuantely this code is not packadged SORRY :(, for using you have to setup Matlab locally in your machine and perfect entry point for starting is via GUI class. 
